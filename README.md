@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/200820545.svg)](https://zenodo.org/badge/latestdoi/200820545)
+
 # Making maDMPs human-readable
 
 ## Overview
